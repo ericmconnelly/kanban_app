@@ -1,0 +1,25 @@
+{
+  "name": "kanban",
+  "version": "0.1.0",
+  "description": "kanban app built with react and flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/leeric92/kanban_app"
+  },
+  "keywords": [
+    "kanban",
+    "react",
+    "flux",
+    "webpack"
+  ],
+  "author": "Le, Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeric92/kanban_app/issues"
+  },
+  "homepage": "https://github.com/leeric92/kanban_app"
+}
